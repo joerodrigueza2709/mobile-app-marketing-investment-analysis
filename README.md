@@ -105,7 +105,9 @@ This framework simulates how marketing teams evaluate campaign efficiency and pr
 [mobile_app_ua_investment_analysis.xlsx](excel_analysis/mobile_app_ua_investment_analysis.xlsx)
 
 Excel was used to:
+
 Clean and validate the dataset
+
 Engineer marketing metrics
 
 Build pivot tables for aggregated performance
