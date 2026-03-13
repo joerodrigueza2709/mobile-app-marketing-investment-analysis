@@ -6,7 +6,7 @@ This project analyzes mobile app marketing performance to determine which apps d
 The analysis evaluates acquisition efficiency, short-term revenue recovery, long-term user value, and user retention using key marketing metrics.
 The goal is to simulate a real-world product analytics workflow and demonstrate how data analysts support marketing investment decisions.
 
-Tools used:
+# Tools used:
 Excel
 Power BI
 
