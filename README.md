@@ -142,6 +142,7 @@ LTV vs CAC profitability visualization
 
 ## Key Insights:
 **The analysis identified several apps that demonstrate strong marketing efficiency based on:**
+
 high ROAS
 
 strong long-term LTV
