@@ -114,7 +114,11 @@ Identify the top apps for UA investment
 <img width="1530" height="1072" alt="excel_overview" src="https://github.com/user-attachments/assets/ca2927cb-bbe7-4a84-b8ab-bdc07f8dd16d" />
 
 ## Power BI Dashboard:
-Dashboard file: powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix
+
+Dashboard file:  
+[Download the Power BI Dashboard](powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix)
+
+Can be found: Powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix
 
 A Power BI dashboard was created to visualize campaign performance and highlight the most promising apps for additional investment.
 
