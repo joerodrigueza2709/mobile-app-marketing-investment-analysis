@@ -18,19 +18,24 @@ Marketing teams must decide how to allocate limited user acquisition budgets acr
 
 Investing in the wrong campaigns can significantly reduce marketing efficiency and return on investment.
 
-This project answers the following question:
+**This project answers the following question:**
 
-Which mobile apps should receive additional user acquisition investment?
+**Which mobile apps should receive additional user acquisition investment?**
 
 ## Dataset:
-The dataset is a simulated marketing performance dataset containing:
+**The dataset is a simulated marketing performance dataset containing:**
+
 25 mobile applications
+
 3 platforms (iOS, Android, Amazon)
+
 200+ countries
-Each row represents performance metrics for a specific:
+
+**Each row represents performance metrics for a specific:**
+
 App × Platform × Country
 
-Two datasets are included:
+**Two datasets are included:**
 
 Raw Dataset:
 Located in: data/raw/raw_app_performance_data.csv
@@ -105,6 +110,3 @@ healthy retention
 favorable LTV:CAC ratios
 These apps represent the best candidates for additional user acquisition investment.
 
-Tools Used:
-Excel
-Power BI
