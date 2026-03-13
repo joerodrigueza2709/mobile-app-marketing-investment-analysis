@@ -123,11 +123,10 @@ Identify the top apps for UA investment
 📥 **Download the Power BI Dashboard:**  
 [mobile_app_ua_investment_dashboard.pbix](powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix)
 
-Can be found: Powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix
-
 A Power BI dashboard was created to visualize campaign performance and highlight the most promising apps for additional investment.
 
 **The dashboard includes:**
+
 Portfolio KPI overview
 
 Top apps for UA investment
