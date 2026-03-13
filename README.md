@@ -127,6 +127,7 @@ A Power BI dashboard was created to visualize campaign performance and highlight
 
 **The dashboard includes:**
 
+
 Portfolio KPI overview
 
 Top apps for UA investment
