@@ -1,18 +1,19 @@
 # product-data-analyst-excel-powerbi
 # Mobile App UA Investment Analysis
 
-# Project Overview:
+## Project Overview:
 This project analyzes mobile app marketing performance to determine which apps deserve additional user acquisition (UA) investment.
 
 The analysis evaluates acquisition efficiency, short-term revenue recovery, long-term user value, and user retention using key marketing metrics.
 
 The goal is to simulate a real-world product analytics workflow and demonstrate how data analysts support marketing investment decisions.
 
-# Tools used:
+## Tools used:
 Excel
+
 Power BI
 
-# Business Problem:
+## Business Problem:
 Marketing teams must decide how to allocate limited user acquisition budgets across multiple mobile apps.
 
 Investing in the wrong campaigns can significantly reduce marketing efficiency and return on investment.
@@ -21,7 +22,7 @@ This project answers the following question:
 
 Which mobile apps should receive additional user acquisition investment?
 
-Dataset:
+## Dataset:
 The dataset is a simulated marketing performance dataset containing:
 25 mobile applications
 3 platforms (iOS, Android, Amazon)
