@@ -1,5 +1,7 @@
 # Mobile App UA Investment Analysis
 
+A product analytics case study evaluating mobile app marketing performance and identifying the best candidates for increased user acquisition investment using Excel and Power BI.
+
 ## Project Overview:
 This project analyzes mobile app marketing performance to determine which apps deserve additional user acquisition (UA) investment.
 
@@ -11,6 +13,22 @@ The goal is to simulate a real-world product analytics workflow and demonstrate 
 Excel
 
 Power BI
+
+## Data Pipeline
+
+The analytical workflow for this project follows the pipeline below:
+
+Raw Dataset  
+↓  
+Excel Data Cleaning  
+↓  
+Feature Engineering  
+↓  
+Excel Analysis  
+↓  
+Power BI Dashboard  
+↓  
+Investment Decision Framework
 
 ## Business Problem:
 Marketing teams must decide how to allocate limited user acquisition budgets across multiple mobile apps.
@@ -163,4 +181,19 @@ LTV vs CAC profitability visualization
 • Favorable LTV:CAC ratios demonstrating profitable acquisition
 
 **Apps such as Ninja Numbers and Hero Helper HQ showed particularly strong unit economics and represent the best candidates for additional UA investment.**
+
+## Business Impact
+
+Based on the unit economics analysis, several apps demonstrate strong marketing efficiency and represent strong candidates for increased user acquisition investment.
+
+Apps such as **Ninja Numbers**, **Hero Helper HQ**, and **Super Chef Jr** show favorable performance across multiple metrics including:
+
+• Strong ROAS indicating efficient short-term revenue recovery  
+• High LTV suggesting sustainable long-term user value  
+• Healthy retention reflecting strong user engagement  
+• Favorable LTV:CAC ratios indicating profitable acquisition
+
+These apps would likely deliver the highest marginal return on additional marketing spend and should therefore be prioritized for expanded UA campaigns.
+
+Apps with weaker unit economics should instead be monitored or optimized before additional marketing investment is allocated.
 
